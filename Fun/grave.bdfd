@@ -1,0 +1,5 @@
+$nomention
+$title[RIP $username[$mentioned[1]]]
+$color[#ff2050]
+$image[https://vacefron.nl/api/grave?user=$userAvatar[$mentioned[1]]]
+$argsCheck[>1;Mention someone to get to their grave! ]
