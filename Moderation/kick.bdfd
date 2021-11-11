@@ -1,0 +1,5 @@
+$nomention
+$onlyPerms[kick;❌ You need the `kick` permission to use that!]
+$argsCheck[>1;❌ Please provide a user to kick. Usage: `!kick (user) <reason>`.]
+$kick[$mentioned[1];$noMentionMessage]
+✅ Kicked `$username[$mentioned[1]]#$discriminator[$mentioned[1]]`!
