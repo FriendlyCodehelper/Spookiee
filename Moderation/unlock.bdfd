@@ -1,0 +1,6 @@
+$nomention
+$modifyChannelPerms[$channelID;+sendmessages;$guildID]
+$onlyPerms[manageserver;You don't have permission to use this]
+$argsCheck[>1;Please select a channel!]
+$description[<#$mentionedChannels[1;yes]> Has Been Unlocked!🔓]
+$color[748BD4]
