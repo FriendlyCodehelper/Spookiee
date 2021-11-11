@@ -1,0 +1,10 @@
+https://c.tenor.com/u6V2G11r3r4AAAAi/live-on-air.gif$nomention
+$deletecommand
+$color[#ff0000] 
+$footerIcon[https://cdn.discordapp.com/attachments/576017761831092225/579033167185444904/youtube-logo-png-2069_thumb1200_4-3.webp] 
+$author[YouTube Search]
+$footer[By Google]
+$description[Searching YouTube :mag_right:
+https://www.youtube.com/results?search_query=$message
+Search : $message
+]
