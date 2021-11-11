@@ -1,0 +1,6 @@
+$nomention
+$title[Poll!]
+$addReactions[👍;👎]
+$description[$message]
+$footer[👍Yes. - 👎 No.
+Poll created by $username.]
