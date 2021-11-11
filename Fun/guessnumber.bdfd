@@ -1,0 +1,14 @@
+$nomention
+$argsCheck[>1;How can you guess without a number?]
+$nomention
+$description[
+$if[$message[1]==$random[1;10]]
+$message[1] Is correct | ✅
+$color[FF000]
+
+$else
+
+$message[1] Is wrong, the number was $random[1;10] | ❎
+$color[FF0000]
+
+$endif]
