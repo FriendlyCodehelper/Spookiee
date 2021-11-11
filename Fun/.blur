@@ -1,0 +1,4 @@
+$title[Blur image]
+$image[https://api.shitapi.ga/image/blur?image=$userAvatar[$mentioned[1]]]
+$color[FF2500]
+$onlyif[$mentioned[1]!=;mention someone]
