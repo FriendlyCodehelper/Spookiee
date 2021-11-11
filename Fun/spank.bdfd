@@ -1,0 +1,4 @@
+$title[Spank image]
+$image[https://api.shitapi.ga/image/spank?image1=$authorAvatar&image2=$userAvatar[$mentioned[1]]]
+$color[FF2500]
+$onlyif[$mentioned[1]!=;mention someone]
