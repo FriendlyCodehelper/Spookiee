@@ -1,0 +1,11 @@
+$nomention
+$argsCheck[>2; Correct Usage: **/custommeme background_image_link text1/text2**]
+$onlyIf[$checkContains[$message;https;www;http]==true;Please provide the background image link]
+$title[Custom Meme]
+$image[https://api.memegen.link/images/custom/$replaceText[$replaceText[$message; ;_;-1];$message[1];;1].png?background=$message[1]]
+$footer[Requested by $username]
+$color[$random[12345;67890]]
+$addTimestamp
+$botTyping
+$cooldown[5s;Please wait 3 second before use the command again.]
+$suppressErrors[Error Occurred.Please try again later.]
