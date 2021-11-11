@@ -1,0 +1,25 @@
+$thumbnail[$userAvatar[$mentioned[1]]]
+$title[$username[$mentioned[1]] Info!]
+$description[
+
+❔`When Did They Join The Server?`
+**$userJoined[$mentioned[1]]**
+
+📮 `When did they join discord?` 
+**$userJoinedDiscord[$mentioned[1]]**
+
+🌸 `User ID Name Tag`
+**$mentioned[1]** ***$username[$mentioned[1]]*** __#$discriminator[$mentioned[1]]__
+
+🔥 `Current User Perms`
+**$userPerms[$mentioned[1];-1;500]**
+
+☁️ `User Current Status`
+**$getUserStatus[$mentioned[1]]**
+
+🤖 `User Is Bot`
+**Returns True If Is Bot** __$isBot[$mentioned[1]]__]
+$color[$random[0;999999]]
+$addTimestamp
+$onlyIf[$mentioned[1]!=;Mention someone bruh]
+Command Made By <@589473743789883432> 
