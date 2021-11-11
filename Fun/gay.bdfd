@@ -1,0 +1,5 @@
+$nomention 
+$footer[Requested By $username] 
+$color[0000FF]
+$title[**howgay machine**]
+$description[$username :gay_pride_flag:$allowMention $message is $random[1;105]% Gay]
